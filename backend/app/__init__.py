@@ -1,0 +1,1 @@
+"""Gridbricks Wind Intelligence API."""

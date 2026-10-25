@@ -140,6 +140,3 @@ The frontend can be deployed to Vercel and the backend can be deployed as a Dock
 
 Historical publication access and forecast resolution are properties of the upstream Elexon response. This implementation reports the observed resolution, aggregates FUELHH to the common hourly resolution, and does not interpolate, duplicate, or substitute a later forecast. The cutoff default must be agreed with the customer before operational use.
 
-## AI tools disclosure
-
-GitHub Copilot and ChatGPT assisted with implementation, code review, documentation, and test development. All domain assumptions and live API behavior should be reviewed by the project owner before production use.

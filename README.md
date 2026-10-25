@@ -130,7 +130,6 @@ backend/
 frontend/
   src/main.jsx
   src/styles.css
-docs/demo-script.md
 docker-compose.yml
 ```
 
